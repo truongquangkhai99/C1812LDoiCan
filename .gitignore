@@ -22,3 +22,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+/ADF2/bai03/nbproject/private/
+/ADF2/bai03/build/
+/ADF2/bai04/target/
